@@ -11,36 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Kentucky, 2020
+* Ph.D in Computer Science, University of Central Florida, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Graduate Research Assistant
+  * University of Central Florida
+  * Supervisor: Dr. Carolina Cruz-Neira
   
-Skills
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages and Frameworks
+  * C, C++, C#
+  * Python
+  * Java
+  * VB.NET
+  * HTML, CSS, JavaScript, Bootstrap, Express
+  * Cordova, React Native, Node.JS
+  * VBA 
+  * SAS, R
+  * CMake
+* Else
+  * Agile Git
+  * Selenium
+  * Unity
+  * Visual Studio, Eclipse, 
+  * Linux
+  * AWS
+  * Adobe Creative Suite
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -54,6 +54,16 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership and Awards
 ======
-* Currently signed in to 43 different slack teams
+* Outstanding Senior in Computer Science | April 2020
+  * University of Kentucky
+  * Selected by the ACM UK Student Chapter for achievements and dedication to the Computer Science Department at UK
+* Dean's Engineering Leadership Class | Spring 2020
+  * University of Kentucky
+  * Selected forleadership experience and aptitude and desire to seek future leadership opportunities
+* UK Association for Computing Machinery for Women | President | Aug 2018-May 2020
+  * University of Kentucky
+  * Head of a growing organization focused on empowering women in Computer Science at UK
+  * Organized and ran first Computer Science Career Fair
+  * Raised $4,650 in funding from competitive funding events organized by the UK College of Engineering and about $3,000 from the Computer Science Career Fairs over two years
