@@ -70,4 +70,4 @@ Leadership and Awards
   * University of Kentucky
   * Head of a growing organization focused on empowering women in Computer Science at UK
   * Organized and ran first Computer Science Career Fair
-  * Raised $4,650 in funding from competitive funding events organized by the UK College of Engineering and about $3,000 from the Computer Science Career Fairs over two years
+  * Raised \$4,650 in funding from competitive funding events organized by the UK College of Engineering and about \$3,000 from the Computer Science Career Fairs over two years
