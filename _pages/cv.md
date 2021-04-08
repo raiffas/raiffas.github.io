@@ -11,16 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Kentucky, 2020
 * Ph.D in Computer Science, University of Central Florida, 2025 (expected)
+* B.S. in Computer Science, University of Kentucky, 2020
+
+Research experience
+======
+* Graduate Research Assistant \ Aug 2020 - Present
+  * University of Central Florida
+  * Supervisor: Dr. Carolina Cruz-Neira
+* Undergraduate Research Assistant \ Aug 2018 - Aug 2020
+  * University of Kentucky
+  * Dr. Brent Seales
 
 Work experience
 ======
-* Graduate Research Assistant
-  * August 2020 - Present
-  * University of Central Florida
-  * Supervisor: Dr. Carolina Cruz-Neira
-  
+
 Technical Skills
 ======
 * Languages and Frameworks
@@ -57,17 +62,12 @@ Teaching
   
 Leadership and Awards
 ======
-* Outstanding Senior in Computer Science
-  * April 2020
-  * University of Kentucky
+* Outstanding Senior in Computer Science \ April 2020 \ University of Kentucky
   * Selected by the ACM UK Student Chapter for achievements and dedication to the Computer Science Department at UK
-* Dean's Engineering Leadership Class
-  * Spring 2020
-  * University of Kentucky
+* Dean's Engineering Leadership Class \ Spring 2020 \ University of Kentucky
   * Selected forleadership experience and aptitude and desire to seek future leadership opportunities
-* UK Association for Computing Machinery for Women President 
-  * Aug 2018-May 2020
+* UK Association for Computing Machinery for Women \ President \ Aug 2018-May 2020
   * University of Kentucky
   * Head of a growing organization focused on empowering women in Computer Science at UK
   * Organized and ran first Computer Science Career Fair
-  * Raised \$4,650 in funding from competitive funding events organized by the UK College of Engineering and about \$3,000 from the Computer Science Career Fairs over two years
+  
