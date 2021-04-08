@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Graduate Research Assistant
+* Graduate Research Assistant
+  * August 2020 - Present
   * University of Central Florida
   * Supervisor: Dr. Carolina Cruz-Neira
   
@@ -56,13 +57,16 @@ Teaching
   
 Leadership and Awards
 ======
-* Outstanding Senior in Computer Science - April 2020
+* Outstanding Senior in Computer Science
+  * April 2020
   * University of Kentucky
   * Selected by the ACM UK Student Chapter for achievements and dedication to the Computer Science Department at UK
-* Dean's Engineering Leadership Class - Spring 2020
+* Dean's Engineering Leadership Class
+  * Spring 2020
   * University of Kentucky
   * Selected forleadership experience and aptitude and desire to seek future leadership opportunities
-* UK Association for Computing Machinery for Women - President - Aug 2018-May 2020
+* UK Association for Computing Machinery for Women President 
+  * Aug 2018-May 2020
   * University of Kentucky
   * Head of a growing organization focused on empowering women in Computer Science at UK
   * Organized and ran first Computer Science Career Fair
