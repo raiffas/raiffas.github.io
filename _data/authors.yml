@@ -1,16 +1,16 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  name        : "Raiffa Syamil"
+  uri         : "http://raiffas.github.io"
+  email       : "raiffas@knights.ucf.edu"
+  bio         : "Hey whats up."
+  avatar      : "headshot.png"
   twitter     : "name"
   google_plus : "Name"
 
 Name2 Name2:
-  name        : "Name2 Name2"
+  name        : "Kyra Seevers"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
