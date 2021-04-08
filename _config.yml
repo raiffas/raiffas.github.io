@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raiffa Syamil / Site Title"
+title                    : "Raiffa Syamil"
 title_separator          : "-"
 name                     : &name "Raiffa Syamil"
 description              : &description "CS PhD Student at University of Central Florida"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Raiffa Syamil"
   avatar           : "headshot.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Computer Science PhD Student at University of Central Florida"
   location         : "Orlando, FL"
   employer         :  "University of Central Florida"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "raiffas@knights.ucf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
