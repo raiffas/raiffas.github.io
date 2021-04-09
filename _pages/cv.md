@@ -33,6 +33,9 @@ Work experience
   * Lead the migration of a critical business application and sunset process for existing business application. Worked closely with both IT and Engineering team leads
   * Worked on the front (Cordova) and back end (AWS IoT Core) for a cross platform mobile application to monitor activity for an indoor smoker developed by FirstBuild
 * <strong>Engineering Co-op</strong> \ Trane, Lexington KY \ Jan - Aug 2018
+  * Improved a C# application used within the business to dynamically populate file information
+  * Developed a new feature for a VB.NET application that supported an improvement plan for a manufacturing plant. Feature reduced waste of cut metal parts
+  * Developed a VBA application used by all project leaders to easily access important dates and information on all current projects. Automated updating of desired project information
 
 Technical Skills
 ======
@@ -77,5 +80,5 @@ Leadership and Awards
 * <strong>UK Association for Computing Machinery for Women</strong> \ President \ Aug 2018-May 2020
   * Head of a growing organization focused on empowering women in Computer Science at University of Kentucky
   * Organized and ran first Computer Science Career Fair
-  * Raised $4,650 in funding from competitive funding events organized by the UK College of Engineering and about $3,000 from the Computer Science Career Fairs over two years
+  * Raised $$4,650$ in funding from competitive funding events organized by the UK College of Engineering and about $$3,000$ from the Computer Science Career Fairs over two years
   
