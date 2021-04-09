@@ -80,5 +80,5 @@ Leadership and Awards
 * <strong>UK Association for Computing Machinery for Women</strong> \ President \ Aug 2018-May 2020
   * Head of a growing organization focused on empowering women in Computer Science at University of Kentucky
   * Organized and ran first Computer Science Career Fair
-  * Raised $$4,650$ in funding from competitive funding events organized by the UK College of Engineering and about $$3,000$ from the Computer Science Career Fairs over two years
+  * Raised \$4,650 in funding from competitive funding events organized by the UK College of Engineering and about \$3,000 from the Computer Science Career Fairs over two years
   
