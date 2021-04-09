@@ -16,15 +16,23 @@ Education
 
 Research experience
 ======
-* <strong>Graduate Research Assistant</strong> \ Aug 2020 - Present
-  * University of Central Florida
-  * Supervisor: Dr. Carolina Cruz-Neira
-* <strong>Undergraduate Research Assistant</strong> \ Aug 2018 - Aug 2020
-  * University of Kentucky
-  * Dr. Brent Seales
+* <strong>Graduate Research Assistant</strong> \ University of Central Florida \ Aug 2020 - Present
+  * Advisor: Dr. Carolina Cruz-Neira
+* <strong>Undergraduate Research Assistant</strong> \ University of Kentucky \ Aug 2018 - Aug 2020
+  * Advisor: Dr. Brent Seales
+  * Developed an automatic XML metadata collection and delivery process to solve a long-standing issue with our Virtual Unwrapping pipeline
+  * Produced a video detailing recently published work with Machine Learning. Developed custom visualization tools using C++ and Blender
 
 Work experience
 ======
+* <strong>Software Contractor</strong> \ Delta V Innovations, Remote \ May 2020 - Present
+* <strong>Software Contractor</strong> \ Lexcelon, Lexington, KY \ Jan - Aug 2020
+  * Full stack engineer developing app to support our customer’s in home physical therapy device
+  * Integrated a Slack application and a QT app and enabled communication between the two for a custom light and accompanying open source application aimed at increasing productivity within businesses
+* <strong>Associate IT Systems Analyst</strong> \ GE Appliances, Louisville KY \ May - July 2019
+  * Lead the migration of a critical business application and sunset process for existing business application. Worked closely with both IT and Engineering team leads
+  * Worked on the front (Cordova) and back end (AWS IoT Core) for a cross platform mobile application to monitor activity for an indoor smoker developed by FirstBuild
+* <strong>Engineering Co-op</strong> \ Trane, Lexington KY \ Jan - Aug 2018
 
 Technical Skills
 ======
@@ -67,7 +75,7 @@ Leadership and Awards
 * <strong>Dean's Engineering Leadership Class</strong> \ Spring 2020 \ University of Kentucky
   * Selected forleadership experience and aptitude and desire to seek future leadership opportunities
 * <strong>UK Association for Computing Machinery for Women</strong> \ President \ Aug 2018-May 2020
-  * University of Kentucky
-  * Head of a growing organization focused on empowering women in Computer Science at UK
+  * Head of a growing organization focused on empowering women in Computer Science at University of Kentucky
   * Organized and ran first Computer Science Career Fair
+  * Raised $4,650 in funding from competitive funding events organized by the UK College of Engineering and about $3,000 from the Computer Science Career Fairs over two years
   
