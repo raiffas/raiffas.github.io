@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Teaching Assitant"
+title: "Undergraduate Teaching Assistant"
 collection: teaching
 type: "CS316: Web Programming"
 permalink: /teaching/2020-05
